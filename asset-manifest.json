@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/hiit/static/css/main.f1508180.chunk.css",
-    "main.js": "/hiit/static/js/main.7c830e3b.chunk.js",
-    "main.js.map": "/hiit/static/js/main.7c830e3b.chunk.js.map",
+    "main.css": "/hiit/static/css/main.a9a1d493.chunk.css",
+    "main.js": "/hiit/static/js/main.5b40dcb9.chunk.js",
+    "main.js.map": "/hiit/static/js/main.5b40dcb9.chunk.js.map",
     "runtime-main.js": "/hiit/static/js/runtime-main.299014b8.js",
     "runtime-main.js.map": "/hiit/static/js/runtime-main.299014b8.js.map",
-    "static/js/2.92331650.chunk.js": "/hiit/static/js/2.92331650.chunk.js",
-    "static/js/2.92331650.chunk.js.map": "/hiit/static/js/2.92331650.chunk.js.map",
+    "static/js/2.c90cd154.chunk.js": "/hiit/static/js/2.c90cd154.chunk.js",
+    "static/js/2.c90cd154.chunk.js.map": "/hiit/static/js/2.c90cd154.chunk.js.map",
     "index.html": "/hiit/index.html",
-    "static/css/main.f1508180.chunk.css.map": "/hiit/static/css/main.f1508180.chunk.css.map",
-    "static/js/2.92331650.chunk.js.LICENSE.txt": "/hiit/static/js/2.92331650.chunk.js.LICENSE.txt"
+    "static/css/main.a9a1d493.chunk.css.map": "/hiit/static/css/main.a9a1d493.chunk.css.map",
+    "static/js/2.c90cd154.chunk.js.LICENSE.txt": "/hiit/static/js/2.c90cd154.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.299014b8.js",
-    "static/js/2.92331650.chunk.js",
-    "static/css/main.f1508180.chunk.css",
-    "static/js/main.7c830e3b.chunk.js"
+    "static/js/2.c90cd154.chunk.js",
+    "static/css/main.a9a1d493.chunk.css",
+    "static/js/main.5b40dcb9.chunk.js"
   ]
 }
